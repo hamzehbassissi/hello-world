@@ -1,1 +1,1 @@
-# ici le promier git pour moi 
+# ici le premier git pour moi 
